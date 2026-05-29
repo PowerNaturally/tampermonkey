@@ -7,8 +7,8 @@
 // @match        https://powernaturally.simprosuite.com/*
 // @grant        GM_addStyle
 // @run-at       document-start
-// @downloadURL  https://githubusercontent.com
-// @updateURL    https://githubusercontent.com
+// @downloadURL  https://raw.githubusercontent.com/PowerNaturally/tampermonkey/refs/heads/main/pn-tampermonkey-simprohidemenus-github-v1.js
+// @updateURL    https://raw.githubusercontent.com/PowerNaturally/tampermonkey/refs/heads/main/pn-tampermonkey-simprohidemenus-github-v1.js
 // @match        https://*://*
 // ==/UserScript==
 
