@@ -6,10 +6,9 @@
 // @match        https://powernaturally.simprosuite.com/staff/tasks.php*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://github.com/PowerNaturally/tampermonkey/blob/main/pn-tampermonkey-simprotaskcategories-github-v1.js
-// @updateURL    https://github.com/PowerNaturally/tampermonkey/blob/main/pn-tampermonkey-simprotaskcategories-github-v1.js
+// @downloadURL  https://githubusercontent.com
+// @updateURL    https://githubusercontent.com
 // @match        https://*://*
-// @grant        none
 // ==/UserScript==
 
 (function () {
