@@ -6,8 +6,8 @@
 // @run-at       document-idle
 // @grant        GM_xmlhttpRequest
 // @connect      powernaturally.sharepoint.com
-// @downloadURL  https://raw.githubusercontent.com/PowerNaturally/tampermonkey/refs/heads/main/pn-tampermonkey-simproportallinks-github-v1.js
-// @updateURL    https://raw.githubusercontent.com/PowerNaturally/tampermonkey/refs/heads/main/pn-tampermonkey-simproportallinks-github-v1.js
+// @downloadURL  https://raw.githubusercontent.com/PowerNaturally/tampermonkey/main/pn-tampermonkey-simproportallinks-github-v1.js
+// @updateURL    https://raw.githubusercontent.com/PowerNaturally/tampermonkey/main/pn-tampermonkey-simproportallinks-github-v1.js
 // @match        https://*://*
 // ==/UserScript==
 
